@@ -22,4 +22,8 @@
 
 ## publisher url
 
-    https://medium.com/
+    <https://medium.com/>
+
+## github url
+
+    <https://github.com/CoteDave/blog/tree/master/Hands-on%20Advanced%20Deep%20Learning%20Time%20Series%20Forecasting%20with%20Tensors>
